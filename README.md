@@ -51,8 +51,6 @@ You can also run the Client and Server on the same machine. When launching the c
 * Please format your code.
     * How to format code using IntelliJ IDEA or Eclipse: https://github.com/google/google-java-format
     * How to format code using VSCode please see the file: VSCode_format_guide.md
-	
-This project considers the output of the [IntelliJ IDEA](https://www.jetbrains.com/idea/) IDE `Reformat Code` option as the gold standard.
 
 ### Who do I talk to? ###
 
