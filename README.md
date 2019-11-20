@@ -49,8 +49,8 @@ You can also run the Client and Server on the same machine. When launching the c
 * Please also take a look at our [code of conduct](code-of-conduct.md), that acts as a guideline on how to communicate with people on this project. If you experienced a violation, do not hesitate to contact one of the maintainers.
 * We follow the [Google Java coding conventions](https://google.github.io/styleguide/javaguide.html), so please make sure that you adhere to them.
 * Please format your code.
-    *How to format code using IntelliJ IDEA or Eclipse: https://github.com/google/google-java-format
-    *How to format code using VSCode please see the file: VSCode_format_guide.md
+    * How to format code using IntelliJ IDEA or Eclipse: https://github.com/google/google-java-format
+    * How to format code using VSCode please see the file: VSCode_format_guide.md
 	
 This project considers the output of the [IntelliJ IDEA](https://www.jetbrains.com/idea/) IDE `Reformat Code` option as the gold standard.
 
