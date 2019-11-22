@@ -1,5 +1,5 @@
 # How to Format to Google Java Style using VSCODE:
-1. Install VSCode
+1. Install [VSCodium](https://github.com/VSCodium/vscodium) or [VSCODE](https://github.com/microsoft/vscode).
 2. Open any Java file with VSCODE
 3. Install the suggested Java plugins for VSCODE. It's called "Java Extension pack". (contains: Language Support for Java™ by Red Hat; Debugger for Java; Java Test Runner;Maven for Java; Java Dependency Viewer; Visual Studio IntelliCode)
 4. Go to settings. Search for "format". Scroll down until you find "settings.json" and open it and add the following lines:
