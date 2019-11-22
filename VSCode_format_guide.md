@@ -9,7 +9,7 @@
 "java.format.enabled": true,
 "java.format.settings.url": "https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml"
 ```
-5. Now your 'settings.json' file should look something like this:
+5. Now your **settings.json** file should look something like this:
 ```
 {
     "html.format.enable": false,
