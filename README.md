@@ -50,7 +50,7 @@ You can also run the Client and Server on the same machine. When launching the c
 * We follow the [Google Java coding conventions](https://google.github.io/styleguide/javaguide.html), so please make sure that you adhere to them.
 * Please format your code.
     * How to format code using [IntelliJ IDEA or Eclipse](https://github.com/google/google-java-format)
-    * How to format code using VSCode please see the file: VSCode_format_guide.md
+    * How to format code using VSCodium (or VSCODE) please see the [VSCode formatting guide](VSCode_format_guide.md)
     * Format code on any editor. Use the jar style approach described [here](https://github.com/google/google-java-format).
 
 ### Who do I talk to? ###
