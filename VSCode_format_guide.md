@@ -1,6 +1,6 @@
 # How to Format to Google Java Style using VSCODE:
 1. Install [VSCodium](https://github.com/VSCodium/vscodium) or [VSCODE](https://github.com/microsoft/vscode).
-2. Open any Java file with VSCODE
+2. Open any Java file with VSCodium (or VSCODE)
 3. Install these plugins from **Settings ** -> **Extensions**:
 * Language Support for Java(TM) by Red Hat
 * Visual Studio IntelliCode.
@@ -19,4 +19,4 @@
     "java.format.settings.url": "https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml"
 }
 ```
-6. Go back to the java file and press **shift + alt + F**  to format the code.  (You may need to install a formatter at this stage)
+6. Go back to the java file and press **shift + alt + F**  to format the code.
