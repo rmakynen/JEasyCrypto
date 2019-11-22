@@ -4,7 +4,7 @@
 3. Install these plugins from **Settings ** -> **Extensions**:
 * Language Support for Java(TM) by Red Hat
 * Visual Studio IntelliCode.
-4. Go to settings. Search for "format". Scroll down until you find "settings.json" and open it and add the following lines:
+4. Go to settings. Search for text: **format**. Scroll down until you find **settings.json** and open it and add the following lines:
 ```
 "java.format.enabled": true,
 "java.format.settings.url": "https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml"
