@@ -1,7 +1,7 @@
 # How to Format to Google Java Style using VSCODE:
 1. Install [VSCodium](https://github.com/VSCodium/vscodium) or [VSCODE](https://github.com/microsoft/vscode).
 2. Open any Java file with VSCodium (or VSCODE)
-3. Install these plugins from **Settings ** -> **Extensions**:
+3. Install these plugins from **Settings** -> **Extensions**:
 * Language Support for Java(TM) by Red Hat
 * Visual Studio IntelliCode.
 4. Go to settings. Search for text: **format**. Scroll down until you find **settings.json** and open it and add the following lines:
