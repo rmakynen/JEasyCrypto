@@ -19,4 +19,4 @@
     "java.format.settings.url": "https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml"
 }
 ```
-6. Go back to the java file and press shift + alt + F  to format the code.  (You may need to install a formatter at this stage)
+6. Go back to the java file and press **shift + alt + F**  to format the code.  (You may need to install a formatter at this stage)
